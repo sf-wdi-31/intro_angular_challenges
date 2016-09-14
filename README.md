@@ -21,8 +21,7 @@ You will need to make changes in `index.html` and `app.js`.
 1. Rendering Data in Angular
 2. Using Controllers to hide logic
     * Render data about yourself
-    * Render data about your class
 3. Two-Way Data-binding
-    * Play with view-models (ng-model)
+    * Play with ng-model
     * Create a simple calculator
     * Create a loan interest calculator
