@@ -45,14 +45,14 @@ var app = angular.module("appTwo", []);
 app.controller("WelcomeController", WelcomeController);
 
 function WelcomeController(){
-  this.full_name = "YOUR NAME"; // change me
+  this.fullName = "YOUR NAME"; // change me
 }
 </pre>
     </li>
     <li>
       You should see your name displayed:
       <span data-ng-controller="WelcomeController as your">
-        {{ your.full_name }}
+        {{ your.fullName }}
       </span>
       </br>
     </li>
