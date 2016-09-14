@@ -4,6 +4,7 @@ console.log('challenge #3 -- app.js loaded!');
 // app.controller("infoController", infoController)
 
 // function infoController(){
-//   this.name = "Jon Doe"; // default name
-//   this.height = 5.6; // default height in feet
+//   var vm = this;
+//   vm.name = "Jon Doe"; // default name
+//   vm.height = 5.6; // default height in feet
 // }
